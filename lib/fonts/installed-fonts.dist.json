@@ -76,5 +76,11 @@
         "bold_italic": "DejaVuSerif-BoldItalic",
         "italic": "DejaVuSerif-Italic",
         "normal": "DejaVuSerif"
+    },
+    "arial": {
+        "normal": "Arial-Unicode-Regular",
+        "bold": "Arial-Unicode-Bold",
+        "italic": "Arial-Unicode-Bold-Italic",
+        "bold_italic": "Arial-Unicode-Italic"
     }
 }
